@@ -1,0 +1,192 @@
+[
+    {
+    "id": 1,
+    "email": "john@mail.com",
+    "password": "changeme",
+    "name": "Jhon",
+    "role": "customer",
+    "avatar": "https://robohash.org/138.36.73.12.png",
+    "creationAt": "2024-01-14T23:24:01.000Z",
+    "updatedAt": "2024-01-14T23:24:01.000Z"
+    },
+    {
+    "id": 2,
+    "email": "maria@mail.com",
+    "password": "12345",
+    "name": "Maria",
+    "role": "customer",
+    "avatar": "https://robohash.org/158.36.77.12.png",
+    "creationAt": "2024-01-14T23:24:01.000Z",
+    "updatedAt": "2024-01-14T23:24:01.000Z"
+    },
+    {
+    "id": 3,
+    "email": "admin@mail.com",
+    "password": "admin123",
+    "name": "Admin",
+    "role": "admin",
+    "avatar": "https://robohash.org/138.58.77.12.png",
+    "creationAt": "2024-01-14T23:24:01.000Z",
+    "updatedAt": "2024-01-14T23:24:01.000Z"
+    },
+    {
+    "id": 4,
+    "email": "TESTuser555@test.com",
+    "password": "1234",
+    "name": "TESTuser555",
+    "role": "customer",
+    "avatar": "https://robohash.org/138.36.77.59.png",
+    "creationAt": "2024-01-15T02:26:25.000Z",
+    "updatedAt": "2024-01-15T02:26:25.000Z"
+    },
+    {
+    "id": 5,
+    "email": "push@inbox.ru",
+    "password": "12345",
+    "name": "George",
+    "role": "customer",
+    "avatar": "https://robohash.org/118.76.77.12.png",
+    "creationAt": "2024-01-15T06:41:21.000Z",
+    "updatedAt": "2024-01-15T06:41:35.000Z"
+    },
+    {
+    "id": 6,
+    "email": "erlina.dani@yahoo.com",
+    "password": "sevilla2016",
+    "name": "erlina",
+    "role": "customer",
+    "avatar": "https://robohash.org/138.36.77.20.png",
+    "creationAt": "2024-01-15T06:42:26.000Z",
+    "updatedAt": "2024-01-15T06:42:26.000Z"
+    },
+    {
+    "id": 7,
+    "email": "customerHammad@gmail.com",
+    "password": "123456",
+    "name": "customerHammad@gmail.com",
+    "role": "customer",
+    "avatar": "https://robohash.org/138.36.78.12.png",
+    "creationAt": "2024-01-15T07:00:11.000Z",
+    "updatedAt": "2024-01-15T07:00:11.000Z"
+    },
+    {
+    "id": 8,
+    "email": "bharatraik@gmail.com",
+    "password": "123456",
+    "name": "Bharat Raikwar",
+    "role": "customer",
+    "avatar": "https://robohash.org/138.30.77.12.png",
+    "creationAt": "2024-01-15T07:31:24.000Z",
+    "updatedAt": "2024-01-15T07:31:24.000Z"
+    },
+    {
+    "id": 9,
+    "email": "bungasbanten@gmail.com",
+    "password": "necarohidah",
+    "name": "Uyung Iskandar ",
+    "role": "customer",
+    "avatar": "https://robohash.org/138.36.77.23.png",
+    "creationAt": "2024-01-15T08:12:59.000Z",
+    "updatedAt": "2024-01-15T08:12:59.000Z"
+    },
+    {
+    "id": 10,
+    "email": "khushlaev@bk.ru",
+    "password": "1111",
+    "name": "Grigoriy",
+    "role": "customer",
+    "avatar": "https://robohash.org/148.36.77.30.png",
+    "creationAt": "2024-01-15T08:29:23.000Z",
+    "updatedAt": "2024-01-15T08:29:23.000Z"
+    },
+    {
+    "id": 11,
+    "email": "blapz@gmail.com",
+    "password": "bejaia06",
+    "name": "yac123",
+    "role": "customer",
+    "avatar": "https://robohash.org/138.36.77.12.png",
+    "creationAt": "2024-01-15T10:02:32.000Z",
+    "updatedAt": "2024-01-15T10:02:32.000Z"
+    },
+    {
+    "id": 12,
+    "email": "bjraik@gmail.comn",
+    "password": "123456",
+    "name": "Bharat",
+    "role": "customer",
+    "avatar": "https://robohash.org/138.36.77.121.png",
+    "creationAt": "2024-01-15T10:06:17.000Z",
+    "updatedAt": "2024-01-15T10:06:17.000Z"
+    },
+    {
+    "id": 13,
+    "email": "sqdqdqsd@gmail.com",
+    "password": "qsdqsdqsd",
+    "name": "sqdqsdsqd",
+    "role": "customer",
+    "avatar": "https://robohash.org/108.36.77.12.png",
+    "creationAt": "2024-01-15T10:07:12.000Z",
+    "updatedAt": "2024-01-15T10:07:12.000Z"
+    },
+    {
+    "id": 14,
+    "email": "user@fakeapi.com",
+    "password": "12345",
+    "name": "Api nodeUser",
+    "role": "customer",
+    "avatar": "https://robohash.org/148.36.77.55.png",
+    "creationAt": "2024-01-15T10:59:51.000Z",
+    "updatedAt": "2024-01-15T11:02:01.000Z"
+    },
+    {
+    "id": 15,
+    "email": "user@fakeapi.com",
+    "password": "12345",
+    "name": "ApiUser",
+    "role": "customer",
+    "avatar": "https://robohash.org/148.36.77.64.png",
+    "creationAt": "2024-01-15T11:00:26.000Z",
+    "updatedAt": "2024-01-15T11:00:26.000Z"
+    },
+    {
+    "id": 16,
+    "email": "bhuwaraik3@we360.ai",
+    "password": "dfkdfdjkf",
+    "name": "bjraik",
+    "role": "customer",
+    "avatar": "https://robohash.org/149.36.77.35.png",
+    "creationAt": "2024-01-15T11:31:01.000Z",
+    "updatedAt": "2024-01-15T11:31:01.000Z"
+    },
+    {
+    "id": 17,
+    "email": "bhu+bjraik3@we360.ai",
+    "password": "dfdslkfjlkj",
+    "name": "bjraik",
+    "role": "customer",
+    "avatar": "https://robohash.org/119.36.77.38.png",
+    "creationAt": "2024-01-15T11:32:07.000Z",
+    "updatedAt": "2024-01-15T11:32:07.000Z"
+    },
+    {
+    "id": 18,
+    "email": "bhuwanek3@we360.ai",
+    "password": "34drdSSes3",
+    "name": "bjraik",
+    "role": "customer",
+    "avatar": "https://robohash.org/169.36.77.35.png",
+    "creationAt": "2024-01-15T11:46:50.000Z",
+    "updatedAt": "2024-01-15T11:46:50.000Z"
+    },
+    {
+    "id": 19,
+    "email": "taufik@gmail.com",
+    "password": "123456",
+    "name": "taufik",
+    "role": "customer",
+    "avatar": "https://robohash.org/149.36.72.95.png",
+    "creationAt": "2024-01-15T12:08:14.000Z",
+    "updatedAt": "2024-01-15T12:08:14.000Z"
+    }
+    ]

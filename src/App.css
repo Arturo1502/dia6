@@ -1,0 +1,104 @@
+.main {
+  width: 90%;
+  min-height: 100vh;
+  padding: 20px;
+  margin: auto;
+}
+
+header {
+  width: 100%;
+  height: 50px;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+header > input{
+  height: 80%;
+  width: 300px;
+  border: none;
+  border-radius: 5px ;
+  padding: 5px;
+  color:#644f4f
+}
+
+
+header > button{
+  width: 60px;
+  height: 80%;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #E2DDD8;
+  color:#644f4f
+}
+
+header > button:hover{
+  background-color: #C7D0C7;
+  color:#b87373
+}
+
+
+/* card Container */
+
+.card_container {
+  list-style: none;
+  margin-top: 20px;
+  width: 100%;
+  max-width: 880px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: max-content;
+  overflow: hidden;
+  flex-wrap: wrap;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #E2DDD8;
+  padding: 20px;
+  border-radius: 4px;
+  width: 250px;
+  height: 250px;
+  justify-content: space-between;
+
+}
+
+.head {
+  width: 100%;
+  font-size: 12px;
+  height: fit-content;
+  display: flex;
+  justify-content: center;
+
+}
+
+.head img {
+  height: 120px;
+
+
+}
+
+.data {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  color: #644f4f;
+}
+
+.data h2 {
+  font-size: 12px;
+}
+
+.data .email {
+  font-size: 10px;
+}
